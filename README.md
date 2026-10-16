@@ -29,7 +29,7 @@ Sou estudante de Ciência da Computação apaixonado por resolver problemas reai
 ### 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mel0cawan&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
 </p>
 
 ### 📫 Vamos nos conectar!
