@@ -11,12 +11,12 @@ Sou estudante de Ciência da Computação apaixonado por resolver problemas reai
 
 ### 🚀 O que estou construindo
 
-*   **Assistente IA para Acessibilidade:** Ferramenta de visão computacional e interpretação de interface para auxiliar usuários cegos ou com baixa visão no uso do computador.
-*   **Pizzeria Idle Game:** Jogo 2D de gerenciamento focado em *upgrade systems*, utilizando C#, manipulação de *colliders*, *raycasters* e arquitetura de eventos na Unity.
+* **Assistente IA para Acessibilidade:** Ferramenta de visão computacional e interpretação de interface para auxiliar usuários cegos ou com baixa visão no uso do computador.
+* **Pizzeria Idle Game:** Jogo 2D de gerenciamento focado em *upgrade systems*, utilizando C#, manipulação de *colliders*, *raycasters* e arquitetura de eventos na Unity.
 
 ### 🛠️ Minha Stack e Ferramentas
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img align="center" alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
@@ -29,7 +29,7 @@ Sou estudante de Ciência da Computação apaixonado por resolver problemas reai
 ### 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mel0cawan&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mel0cawan&theme=radium&hide_border=true" alt="Estatísticas de Contribuição" />
 </p>
 
 ### 📫 Vamos nos conectar!
